@@ -1,7 +1,7 @@
 ---
-title: ATC
+title: ATComputers
 layout: default
-parent: fleximo
+parent: Zákazníci Fleximo
 has_children: true
 ---
 

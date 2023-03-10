@@ -1,8 +1,8 @@
 ---
 title: ABL
 layout: default
-parent: ATC
-grand_parent: fleximo
+parent: ATComputers
+grand_parent: Zákazníci Fleximo
 has_children: true
 nav_order: 1
 ---
