@@ -1,11 +1,10 @@
 ---
-title: A
+title: ABL
 layout: default
-parent: Systemy
+parent: fleximo
 grand_parent: Menu
 has_children: true
 nav_order: 1
 ---
 
-text A
-text A
+text abl

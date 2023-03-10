@@ -1,10 +1,10 @@
 ---
-title: As
+title: Astra
 layout: default
-parent: Systemy
-grand_parent: Menu
+parent: atc
+grand_parent: fleximo
 has_children: true
 nav_order: 2
 ---
 
-text As
+text astra

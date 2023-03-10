@@ -1,7 +1,7 @@
 ---
-title: Menu
+title: fleximo
 layout: default
 has_children: true
 ---
 
-text Menu
+text fleximo
