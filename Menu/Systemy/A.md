@@ -1,8 +1,8 @@
 ---
 title: ABL
 layout: default
-parent: fleximo
-grand_parent: Menu
+parent: atc
+grand_parent: fleximo
 has_children: true
 nav_order: 1
 ---

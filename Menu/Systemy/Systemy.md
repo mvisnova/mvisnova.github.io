@@ -1,7 +1,7 @@
 ---
 title: ATC
 layout: default
-parent: Menu
+parent: fleximo
 has_children: true
 ---
 
