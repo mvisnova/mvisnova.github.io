@@ -5,4 +5,4 @@ parent: Zákazníci Fleximo
 has_children: true
 ---
 
-text atc
+text ATComputers
